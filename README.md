@@ -1,3 +1,3 @@
 # Learninggithub
-making a change in github
-author:samee raza
+making a change in github<br>
+author:samee raza ansari
